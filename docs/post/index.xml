@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on PRUEBA</title>
+    <link>https://example.org/post/</link>
+    <description>Recent content in Posts on PRUEBA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 22 Sep 2023 19:57:10 +0200</lastBuildDate><atom:link href="https://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Segundo_post</title>
+      <link>https://example.org/post/segundo_post/</link>
+      <pubDate>Fri, 22 Sep 2023 19:57:10 +0200</pubDate>
+      
+      <guid>https://example.org/post/segundo_post/</guid>
+      <description>Fugiat aliquip laboris laboris enim incididunt mollit sunt in ullamco ad mollit laboris ea labore. Et enim nisi occaecat laboris et nisi nostrud qui adipisicing minim. Pariatur elit veniam duis officia laboris pariatur in dolor ipsum nostrud eu aliqua adipisicing in. Velit sit laborum mollit consectetur aliqua cupidatat ex. Lorem velit velit laboris do cupidatat cupidatat sint ullamco Lorem nulla eiusmod. Sint irure amet tempor do sit veniam occaecat. Nostrud ullamco ut fugiat pariatur ea laboris est veniam qui proident nostrud veniam sunt.</description>
+    </item>
+    
+    <item>
+      <title>Primer_post</title>
+      <link>https://example.org/post/primer_post/</link>
+      <pubDate>Fri, 22 Sep 2023 19:56:16 +0200</pubDate>
+      
+      <guid>https://example.org/post/primer_post/</guid>
+      <description>Id excepteur sit anim labore. Dolor sit esse ex dolor ea id consequat ipsum veniam culpa et eu et deserunt. Adipisicing ullamco consectetur nulla nostrud esse amet ad ex duis do. Esse nisi non aute officia non. Labore et dolor dolor dolore aliqua officia ullamco magna laboris sit do ad occaecat. Est veniam quis enim cillum tempor reprehenderit magna officia tempor aliqua. Est mollit cupidatat sit anim labore et veniam eiusmod dolor occaecat id est tempor non.</description>
+    </item>
+    
+  </channel>
+</rss>
